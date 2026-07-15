@@ -1,0 +1,30 @@
+[
+  {
+    "question": "What is CareerConnect?",
+    "answer": "CareerConnect is a modern job portal platform that connects talented professionals with top companies. Job seekers can discover opportunities, while recruiters can post jobs and hire the right candidates efficiently."
+  },
+  {
+    "question": "How do I create an account?",
+    "answer": "Click the Login button and sign up using your email account. After registration, complete your profile to start applying for jobs or posting vacancies."
+  },
+  {
+    "question": "How can I search for jobs?",
+    "answer": "Use the search bar and filters to find jobs based on keywords, location, company, or job category. Browse available opportunities and choose the role that best matches your skills."
+  },
+  {
+    "question": "How do I apply for a job?",
+    "answer": "Open the job details page and click the Apply button. Complete your profile, upload your resume if required, and submit your application."
+  },
+  {
+    "question": "Can I save jobs for later?",
+    "answer": "Yes. You can bookmark your favorite job listings and access them anytime from the Saved Jobs section in your dashboard."
+  },
+  {
+    "question": "How can recruiters post job openings?",
+    "answer": "Recruiters can sign in, create a company profile, and use the Post Job feature to publish job opportunities, manage applications, and hire qualified candidates."
+  },
+  {
+    "question": "How can I track my applications?",
+    "answer": "The My Applications section allows job seekers to monitor the status of every application, including pending, shortlisted, and selected updates."
+  }
+]
